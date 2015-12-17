@@ -9,3 +9,6 @@
 
 ### A Rule
 A fun rejoinder: "I don't know what sentiment you are putting forth.  Could you explain further?"
+
+### B Rule
+ * cats have paws
