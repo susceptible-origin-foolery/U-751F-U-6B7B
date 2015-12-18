@@ -1,4 +1,4 @@
-# U-751F-U-6B7B
+# 生死
 
 ## Rules
 
@@ -8,7 +8,7 @@
 * rules are a way to say, let's stop there and choose a different course
 
 ### A Rule
-A fun rejoinder: "I don't know what sentiment you are putting forth.  Could you explain further?"
+ * If one is confused, roll a D20.  If one rolls a 4, then say, "I don't know what sentiment you are putting forth.  Could you explain further?"
 
 ### B Rule
  * cats have paws
